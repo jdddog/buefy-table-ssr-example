@@ -1,4 +1,4 @@
-# table-ssr
+# buefy-table-ssr-example
 
 ## Build Setup
 
